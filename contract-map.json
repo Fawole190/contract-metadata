@@ -1,4 +1,16 @@
 {
+0xa6ed34b0a86a008861b572cf2cb814e2c843b970": {
+
+    "name": "Cardano",
+
+    "logo": "ada.svg",
+
+    "erc20": true,
+
+    "symbol": "ADA",
+
+    "decimals": 18
+  },
   "0x665F77fbA5975ab40Ce61c90F28007fb5b09D7B1": {
     "name": "Genieswap",
     "logo": "Genieswap.svg",
